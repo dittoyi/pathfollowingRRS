@@ -1,0 +1,36 @@
+CC     = "E:\matlab\2012b\sys\lcc\bin\lcc.exe"
+LD     = "E:\matlab\2012b\sys\lcc\bin\lcclnk.exe"
+LIBCMD = "E:\matlab\2012b\sys\lcc\bin\lcclib.exe"
+CFLAGS = -c -Zp8 -DMATLAB_MEX_FILE -noregistrylookup
+LDFLAGS = -s -dll -L"E:\matlab\2012b\sys\lcc\lib"
+LIBFLAGS = 
+
+OBJECTS = \
+	"untitled_sfun.obj"\
+	"untitled_sfun_registry.obj"\
+	"c10_untitled.obj"\
+	"lccstub.obj"\
+	"E:\matlab\2012b\sys\lcc\mex\lccdef.def"\
+	"E:\matlab\2012b\stateflow\c\debugger\lib\win32\sfc_debuglcc.lib"\
+	"E:\matlab\2012b\stateflow\c\mex\lib\win32\sfc_mexlcc.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libmex.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libmx.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libfixedpoint.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libut.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libmwmathutil.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libemlrt.lib"\
+	"E:\matlab\2012b\extern\lib\win32\lcc\libmwblascompat32.lib"\
+
+INCLUDE_PATH= -I"E:\matlab\2012b\sys\lcc\include"  -I"E:\matlab\2012b\extern\include"  -I"E:\matlab\2012b\simulink\include"  -I"E:\matlab\2012b\stateflow\c\mex\include"  -I"E:\matlab\2012b\stateflow\c\debugger\include" 
+ 
+
+untitled_sfun.mexw32 : $(MAKEFILE) $(OBJECTS)
+	$(LD) $(LDFLAGS) -o untitled_sfun.mexw32 @untitled_sfun.lmko
+untitled_sfun.obj :	"untitled_sfun.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "untitled_sfun.c"
+untitled_sfun_registry.obj :	"untitled_sfun_registry.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "untitled_sfun_registry.c"
+c10_untitled.obj :	"c10_untitled.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "c10_untitled.c"
+lccstub.obj :	"E:\matlab\2012b\sys\lcc\mex\lccstub.c"
+	$(CC) $(CFLAGS) $(INCLUDE_PATH) "E:\matlab\2012b\sys\lcc\mex\lccstub.c"
