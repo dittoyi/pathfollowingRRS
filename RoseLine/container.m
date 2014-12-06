@@ -4,7 +4,6 @@ function [xdot,U] = container(x,ui,U0,NOISE)
 % a container ship L = 175 m, where
 %
 U0=0;
-NOISE=0;
 % u     = surge velocity          (m/s)
 % v     = sway velocity           (m/s)
 % r     = yaw velocity            (rad/s)
