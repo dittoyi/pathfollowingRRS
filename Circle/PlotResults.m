@@ -13,7 +13,7 @@ plot(X,Y,'-r','linewidth',2);
 hold on;
 m=mm;
 ww=0.3;
-plot(1500*sin(0.01*m),1500*cos(0.01*m),'linewidth',1.5);
+plot(5000*sin(0.01*m),5000*cos(0.01*m),'linewidth',1.5);
 %axis([0,T_t,-0.6,0.6]);
 xlabel('X(m)');ylabel('Y(m)');set(get(gca,'XLabel'),'FontSize',figure_FontSize);set(get(gca,'YLabel'),'FontSize',figure_FontSize);
 %axis equal;

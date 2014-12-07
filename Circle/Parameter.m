@@ -9,12 +9,17 @@ clc;clear;
 % psi   = pertubed yaw angle about zero (rad)
 % delta = actual rudder angle (rad)
 %NOISE PARAMETER
+
+e=-20;
+
+
 flag=0;
 n_mean=0;
 n_var=0.5;
-K_w=0*1*2.5*10^-3;%0.8*10^-3;
+K_w_roll=0.4*10^-3;
+K_w_yaw=9*10^-6;
 xi_0=0.075;
-omega_0=2*pi/10;
+omega_0=0.22;
 Ampli_psi2phi=4;
 Delta_t=0.1;
 % % % % % % U0=7.7175;
@@ -35,7 +40,7 @@ Delta_t=0.1;
 % % % % % % tt=[0:h:T_t]';
 U0=7.7175;
 beta=0.2*pi/180;
-x_0=[0.1 0 0 0 1000 0.2 0 0 0 70]';
+x_0=[0.1 0 0 0 4500 0.2 0 0 0 70]';
 x=x_0;
 h=0.1;
 Tao=10;
@@ -54,7 +59,7 @@ c2=400;k1=1*0.5*180*beta;
 gainf=0.3;%0.3;
 
 ui=0;
-T_t=2500;%3500
+T_t=1000;%3500
 tt=[0:h:T_t]';
 
 %plot([0 30000],[0 60000],'-r');

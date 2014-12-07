@@ -4,7 +4,7 @@ function [xdot,U] = container(x,ui,U0,NOISE)
 % a container ship L = 175 m, where
 %
 U0=0;
-NOISE=0;
+
 % u     = surge velocity          (m/s)
 % v     = sway velocity           (m/s)
 % r     = yaw velocity            (rad/s)
@@ -167,11 +167,11 @@ n_dot = 1/Tm*(n_c-n)*60;
 
   K    = Kv*v + Kr*r + Kp*p + Kphi*phi + Kvvv*v^3 + Krrr*r^3 + Kvvr*v^2*r + ...
          Kvrr*v*r^2 + Kvvphi*v^2*phi + Kvphiphi*v*phi^2 + Krrphi*r^2*phi + ...
-         Krphiphi*r*phi^2 - (1 + aH)*zR*FN*cos(delta) + mx*lx*u*r - W*GM*phi;
+         Krphiphi*r*phi^2 - (1 + aH)*zR*FN*cos(delta) + mx*lx*u*r - W*GM*phi+NOISE(2);
 
   N    = Nv*v + Nr*r + Np*p + Nphi*phi + Nvvv*v^3 + Nrrr*r^3 + Nvvr*v^2*r + ...
          Nvrr*v*r^2 + Nvvphi*v^2*phi + Nvphiphi*v*phi^2 + Nrrphi*r^2*phi + ...
-         Nrphiphi*r*phi^2 + (xR + aH*xH)*FN*cos(delta)+NOISE;
+         Nrphiphi*r*phi^2 + (xR + aH*xH)*FN*cos(delta)+NOISE(1);
 
 % Dimensional state derivatives  xdot = [ u v r x y psi p phi delta n ]'
 detM = m22*m33*m44-m32^2*m44-m42^2*m33;
