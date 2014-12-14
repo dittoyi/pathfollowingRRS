@@ -1,0 +1,138 @@
+\begin{thebibliography}{27}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem[{Bertrand et~al.(2011)Bertrand, Gu{\'e}nard, Hamel, Piet-Lahanier, and
+  Eck}]{bertrand2011hierarchical}
+Bertrand, S., Gu{\'e}nard, N., Hamel, T., Piet-Lahanier, H., Eck, L., 2011. A
+  hierarchical controller for miniature {VTOL UAVs}: design and stability
+  analysis using singular perturbation theory. Control Engineering Practice
+  19~(10), 1099--1108.
+
+\bibitem[{Blanke and Christensen(1993)}]{blanke1993rudder}
+Blanke, M., Christensen, A.~C., 1993. Rudder-roll damping autopilot robustness
+  to sway-yaw-roll couplings. In: Proc 10th Ship Control Symposium, Ottawa,
+  Canada.
+
+\bibitem[{Edelbaum and Kelley(1970)}]{edelbaum1970energy}
+Edelbaum, T., Kelley, H., 1970. Energy climbs, energy turns, and asymptotic
+  expansions. Journal of Aircraft 7~(1), 93--95.
+
+\bibitem[{Esteban et~al.(2013)Esteban, Gordillo, and Aracil}]{esteban2012three}
+Esteban, S., Gordillo, F., Aracil, J., 2013. Three-time scale singular
+  perturbation control and stability analysis for an autonomous helicopter on a
+  platform. International Journal of Robust and Nonlinear Control 23~(12),
+  1360--1392.
+
+\bibitem[{Esteban and Rivas(2012)}]{esteban2012singular}
+Esteban, S., Rivas, D., 2012. Singular perturbation control of the longitudinal
+  flight dynamics of an uav. In: 2012 UKACC International Conference on
+  Control. IEEE, pp. 310--315.
+
+\bibitem[{Faltinsen(1993)}]{faltinsen1993sea}
+Faltinsen, O., 1993. Sea loads on ships and offshore structures. Cambridge
+  University Press.
+
+\bibitem[{Fang and Luo(2007)}]{fang2007track}
+Fang, M.-C., Luo, J.-H., 2007. On the track keeping and roll reduction of the
+  ship in random waves using different sliding mode controllers. Ocean
+  Engineering 34~(3), 479--488.
+
+\bibitem[{Fossen(1994)}]{fossen1994guidance}
+Fossen, T.~I., 1994. Guidance and control of ocean vehicles. Wiley New York.
+
+\bibitem[{Gawad et~al.(2001)Gawad, Ragab, Nayfeh, and Mook}]{gawad2001roll}
+Gawad, A. F.~A., Ragab, S.~A., Nayfeh, A.~H., Mook, D.~T., 2001. Roll
+  stabilization by anti-roll passive tanks. Ocean Engineering 28~(5), 457--469.
+
+\bibitem[{Goodwin et~al.(2000)Goodwin, Perez, Seron, and
+  Tzeng}]{goodwin2000fundamental}
+Goodwin, G.~C., Perez, T., Seron, M., Tzeng, C.~Y., 2000. On fundamental
+  limitations for rudder roll stabilization of ships. In: Proc of the 39th IEEE
+  Conference on Decision and Control. Vol.~5. IEEE, pp. 4705--4710.
+
+\bibitem[{Kokotovic et~al.(1987)Kokotovic, Khali, and
+  O'reilly}]{kokotovic1987singular}
+Kokotovic, P., Khali, H.~K., O'reilly, J., 1987. Singular perturbation methods
+  in control: analysis and design. Vol.~25. Siam.
+
+\bibitem[{Kokotovic and Sannuti(1968)}]{kokotovic1968singular}
+Kokotovic, P., Sannuti, P., 1968. Singular perturbation method for reducing the
+  model order in optimal control design. Automatic Control, IEEE Transactions
+  on 13~(4), 377--384.
+
+\bibitem[{Lauvdal and Fossen(1997)}]{lauvdal1997nonlinear}
+Lauvdal, T., Fossen, T.~I., 1997. Nonlinear rudder-roll damping of non-minimum
+  phase ships using sliding mode control. In: Proc of the European Control
+  Conference, Brussel, Belgia.
+
+\bibitem[{Lauvdal and Fossen(1998)}]{lauvdal1998rudder}
+Lauvdal, T., Fossen, T.~I., 1998. Rudder roll stabilization of ships subject to
+  input rate saturation using a gain scheduled control law. In: IFAC Conference
+  on Control Applications in Marine Systems. Citeseer.
+
+\bibitem[{Li et~al.(2009)Li, Sun, and Oh}]{li2009design}
+Li, Z., Sun, J., Oh, S., 2009. Design, analysis and experimental validation of
+  a robust nonlinear path following controller for marine surface vessels.
+  Automatica 45~(7), 1649--1658.
+
+\bibitem[{Mehra(1979)}]{mehra1979study}
+Mehra, R.~K., 1979. A study of the application of singular perturbation theory.
+  Vol. 3167. National Aeronautics and Space Administration, Scientific and
+  Technical Information Branch.
+
+\bibitem[{Naidu and Calise(2001)}]{naidu2001singular}
+Naidu, D.~S., Calise, A.~J., 2001. Singular perturbations and time scales in
+  guidance and control of aerospace systems: a survey. Journal of Guidance,
+  Control, and Dynamics 24~(6), 1057--1078.
+
+\bibitem[{O'Brien(2009)}]{o2009multi}
+O'Brien, J.~F., 2009. Multi-path nonlinear dynamic compensation for rudder roll
+  stabilization. Control Engineering Practice 17~(12), 1405--1414.
+
+\bibitem[{Perez(2005)}]{perez2005ship}
+Perez, T., 2005. Ship Motion Control: Autopilots with Rudder Roll Stabilisation
+  and Combined Rudder-fin Stabilisers. Springer.
+
+\bibitem[{Perez and Blanke(2002)}]{perez2002simulation}
+Perez, T., Blanke, M., 2002. Simulation of ship motion in seaway. Department of
+  Electrical and Computer Engineering, The University of Newcastle, Australia,
+  Tech. Rep. EE02037.
+
+\bibitem[{Skjetne and Fossen(2001)}]{skjetne2001nonlinear}
+Skjetne, R., Fossen, T.~I., 2001. Nonlinear maneuvering and control of ships.
+  In: OCEANS, 2001. MTS/IEEE Conference and Exhibition. Vol.~3. IEEE, pp.
+  1808--1815.
+
+\bibitem[{Son and Nomoto(1982)}]{son19825}
+Son, K.-H., Nomoto, K., 1982. On the coupled motion of steering and rolling of
+  a high-speed container ship. Naval Architecture and Ocean Engineering 20,
+  73--83.
+
+\bibitem[{Surendran et~al.(2007)Surendran, Lee, and Kim}]{surendran2007studies}
+Surendran, S., Lee, S., Kim, S., 2007. Studies on an algorithm to control the
+  roll motion using active fins. Ocean Engineering 34~(3), 542--551.
+
+\bibitem[{Townsend et~al.(2007)Townsend, Murphy, and Shenoi}]{townsend2007new}
+Townsend, N., Murphy, A., Shenoi, R., 2007. A new active gyrostabiliser system
+  for ride control of marine vehicles. Ocean Engineering 34~(11), 1607--1617.
+
+\bibitem[{Treakle et~al.(2000)Treakle, Mook, Liapis, and
+  Nayfeh}]{treakle2000time}
+Treakle, T.~W., Mook, D.~T., Liapis, S.~I., Nayfeh, A.~H., 2000. A time-domain
+  method to evaluate the use of moving weights to reduce the roll motion of a
+  ship. Ocean Engineering 27~(12), 1321--1343.
+
+\bibitem[{Van~Amerongen et~al.(1990)Van~Amerongen, Van~der Klugt, and Van
+  Nauta~Lemke}]{van1990rudder}
+Van~Amerongen, J., Van~der Klugt, P., Van Nauta~Lemke, H., 1990. Rudder roll
+  stabilization for ships. Automatica 26~(4), 679--690.
+
+\bibitem[{Velagic et~al.(2003)Velagic, Vukic, and
+  Omerdic}]{velagic2003adaptive}
+Velagic, J., Vukic, Z., Omerdic, E., 2003. Adaptive fuzzy ship autopilot for
+  track-keeping. Control Engineering Practice 11~(4), 433--443.
+
+\end{thebibliography}

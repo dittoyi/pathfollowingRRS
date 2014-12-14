@@ -1,0 +1,12 @@
+\select@language {english}
+\contentsline {figure}{\numberline {1}{\ignorespaces Ship motion in 6-DOF}}{15}
+\contentsline {figure}{\numberline {3}{\ignorespaces Wave disturbances of the roll motion, the shaping function parameters are selected as: $K_w=8\times 10^{-4}, \xi _0=0.075, \omega _0=0.21$}}{15}
+\contentsline {figure}{\numberline {2}{\ignorespaces Singular perturbation control scheme}}{16}
+\contentsline {figure}{\numberline {4}{\ignorespaces Bode diagram of yaw spectrum and roll spectrum}}{16}
+\contentsline {figure}{\numberline {5}{\ignorespaces Nonlinear model simulation results with and without RRS: (a) yaw angle, (b) roll angle and (c) rudder angle.}}{16}
+\contentsline {figure}{\numberline {6}{\ignorespaces Yaw angle performances of the linear and nonlinear models with RRS control strategy.}}{17}
+\contentsline {figure}{\numberline {7}{\ignorespaces Roll angle performances of the linear and nonlinear models with RRS control strategy.}}{17}
+\contentsline {figure}{\numberline {8}{\ignorespaces Rudder angle performances of the linear and nonlinear models with RRS control strategy.}}{18}
+\contentsline {figure}{\numberline {9}{\ignorespaces Track keeping performances with and without RRS control strategy}}{18}
+\contentsline {figure}{\numberline {10}{\ignorespaces Roll angle performances in the track keeping operations with and without RRS}}{19}
+\contentsline {figure}{\numberline {11}{\ignorespaces Sensitivity analysis of rudder model errors}}{19}

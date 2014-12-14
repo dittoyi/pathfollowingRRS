@@ -1,0 +1,75 @@
+This is BibTeX, Version 0.99d (TeX Live 2013)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: RRS_final.aux
+The style file: elsarticle-harv.bst
+Database file #1: roll_reduction.bib
+I was expecting a `,' or a `}'---line 217 of file roll_reduction.bib
+ : 
+ : @inproceedings{li2009path,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Repeated entry---line 235 of file roll_reduction.bib
+ : @article{van1990rudder
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 257 of file roll_reduction.bib
+ : @article{son19825
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 447 of file roll_reduction.bib
+ : @article{o2009multi
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 469 of file roll_reduction.bib
+ : @book{faltinsen1993sea
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 785 of file roll_reduction.bib
+ : @inproceedings{esteban2012singular
+ :                                   ,
+I'm skipping whatever remains of this entry
+Warning--empty pages in blanke1993rudder
+Warning--empty pages in lauvdal1997nonlinear
+Warning--empty pages in lauvdal1998rudder
+You've used 27 entries,
+            2821 wiz_defined-function locations,
+            791 strings with 9192 characters,
+and the built_in function-call counts, 13435 in all, are:
+= -- 1385
+> -- 596
+< -- 23
++ -- 230
+- -- 195
+* -- 1130
+:= -- 2346
+add.period$ -- 89
+call.type$ -- 27
+change.case$ -- 208
+chr.to.int$ -- 27
+cite$ -- 30
+duplicate$ -- 529
+empty$ -- 994
+format.name$ -- 288
+if$ -- 2808
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 31
+newline$ -- 88
+num.names$ -- 108
+pop$ -- 216
+preamble$ -- 1
+purify$ -- 173
+quote$ -- 0
+skip$ -- 421
+stack$ -- 0
+substring$ -- 750
+swap$ -- 95
+text.length$ -- 7
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 231
+warning$ -- 3
+while$ -- 102
+width$ -- 0
+write$ -- 302
+(There were 6 error messages)

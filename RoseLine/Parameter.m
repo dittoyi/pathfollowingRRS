@@ -13,7 +13,7 @@ clc;clear;
 
 % control without L1: a=0.03;b=1.35;c=-2;d=0;
 
-e=-20;%this is the fast subsystem control law: c=e(phi-phi_0)
+e=0*-20;%this is the fast subsystem control law: c=e(phi-phi_0)
 
 %the QSSE point for this model is: phi_0=0.0805v-3.6022r
 
@@ -71,7 +71,7 @@ c2=400;k1=1*0.5*180*beta;
 gainf=0.3;%0.3;
 
 ui=0;
-T_t=4000;%3500
+T_t=10000;%3500
 tt=[0:h:T_t]';
 
 %plot([0 30000],[0 60000],'-r');
