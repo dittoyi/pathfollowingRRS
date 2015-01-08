@@ -59,8 +59,24 @@ c2=400;k1=1*0.5*180*beta;
 gainf=0.3;%0.3;
 
 ui=0;
-T_t=1000;%3500
+T_t=3500;%3500
 tt=[0:h:T_t]';
+
+
+
+
+
+
+sim untitled2.slx
+
+ww=0.3;
+m = mm
+ideaX = 5000*sin(0.01*m);
+ideaY = 5000*cos(0.01*m);
+
+save data_fig/mydata X Y phi psi r_desire roll_noise ui ui_lim Dis_Path_o Dis_PS_p ideaX ideaY tt u phi_0
+
+
 
 %plot([0 30000],[0 60000],'-r');
 %hold on;
