@@ -1,13 +1,13 @@
 # Fdb version 3
-["bibtex RRS_final"] 1418048573 "RRS_final.aux" "RRS_final.bbl" "RRS_final" 1418049123
+["bibtex RRS_final"] 1420440937 "RRS_final.aux" "RRS_final.bbl" "RRS_final" 1420441591
   "/usr/local/texlive/2013/texmf-dist/bibtex/bst/elsarticle/elsarticle-harv.bst" 1253317863 28285 28d1038779995dc19c398d4510db6409 ""
-  "RRS_final.aux" 1418049122 9333 570f7c132eb7a298b6a6be8428c4c5e4 ""
+  "RRS_final.aux" 1420441590 9559 081e91c0643eba63a80f105d514d1ca6 ""
   "RRS_final.bcf" 0 -1 0 ""
   "roll_reduction.bib" 1395718163 11344 1afb989ac5088744005f2cfe64d9e38f ""
   (generated)
-  "RRS_final.blg"
   "RRS_final.bbl"
-["pdflatex"] 1418049121 "RRS_final.tex" "RRS_final.pdf" "RRS_final" 1418049123
+  "RRS_final.blg"
+["pdflatex"] 1420441589 "RRS_final.tex" "RRS_final.pdf" "RRS_final" 1420441591
   "/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii" 1337017135 71627 94eb9990bed73c364d7f53f960cc8c5b ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/babel-english/english.ldf" 1367878877 6963 2e0cb3d93aa64508bdb0db58ae900d97 ""
   "/usr/local/texlive/2013/texmf-dist/tex/generic/babel/babel.def" 1368743226 42950 b2c89311c96d7b70c24e1365a2fa51ee ""
@@ -75,16 +75,16 @@
   "FIG7_PDF.pdf" 1377872308 44789 6a851272970dcb0056bbd8c35373c851 ""
   "FIG8_PDF.pdf" 1377872309 47921 3bd7d1664dbf1d79ad07d63c9ee0e625 ""
   "FIG9_PDF.pdf" 1395665193 26584 0f2060ffefd40b990486b39e9b15ab47 ""
-  "RRS_final.aux" 1418049122 9333 570f7c132eb7a298b6a6be8428c4c5e4 ""
-  "RRS_final.bbl" 1418048573 6592 a9de792950b1b45a2239058bb7bd0904 "bibtex RRS_final"
-  "RRS_final.lof" 1418049122 1476 a7bd891431a205c26184e08ba9cb7114 ""
-  "RRS_final.lot" 1418049122 232 394d87cd88dbddc1c1d077d6df731088 ""
-  "RRS_final.spl" 1418049122 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "RRS_final.tex" 1418049121 86789 5b26e64c8dc4901dcfc0c534c6fd357a ""
+  "RRS_final.aux" 1420441590 9559 081e91c0643eba63a80f105d514d1ca6 ""
+  "RRS_final.bbl" 1420440938 6592 a9de792950b1b45a2239058bb7bd0904 "bibtex RRS_final"
+  "RRS_final.lof" 1420441590 1476 6b09591f6ad7b495548c05b150fc0cc4 ""
+  "RRS_final.lot" 1420441590 232 753ca537de3261052693684c06581e5c ""
+  "RRS_final.spl" 1420441589 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "RRS_final.tex" 1420441589 89900 e712286ebfb4562dffa95997660014ea ""
   (generated)
-  "RRS_final.pdf"
-  "RRS_final.aux"
   "RRS_final.log"
+  "RRS_final.pdf"
+  "RRS_final.lot"
   "RRS_final.lof"
   "RRS_final.spl"
-  "RRS_final.lot"
+  "RRS_final.aux"

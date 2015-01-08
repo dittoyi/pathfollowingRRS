@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.10)  8 DEC 2014 22:32
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2014.4.10)  5 JAN 2015 15:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -734,60 +734,63 @@ LaTeX Font Info:    Try loading font information for U+txsyc on input line 135.
 (/usr/local/texlive/2013/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 1565) in paragraph at lines 150--151
-\OT1/txr/m/n/10 back lim-i-ta-tions due to rud-der sat-u-ra-tion and
- []
-
-
-Underfull \vbox (badness 1728) has occurred while \output is active []
+Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [1{/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Underfull \hbox (badness 1975) in paragraph at lines 159--160
+Underfull \hbox (badness 1565) in paragraph at lines 168--169
+\OT1/txr/m/n/10 back lim-i-ta-tions due to rud-der sat-u-ra-tion and
+ []
+
+
+Underfull \hbox (badness 1975) in paragraph at lines 177--178
 []\OT1/txr/m/n/10 Singular per-tur-ba-tion ap-proaches have been
  []
 
-
-Underfull \hbox (badness 1226) in paragraph at lines 167--168
+[2]
+Underfull \hbox (badness 1226) in paragraph at lines 185--186
 []\OT1/txr/m/n/10 Secondly, the time scale de-com-po-si-tion ap-
  []
 
-[2]
-Underfull \hbox (badness 2951) in paragraph at lines 185--186
+
+Underfull \hbox (badness 2951) in paragraph at lines 203--204
 []\OT1/txr/m/n/10 In tra-di-tional ma-neu-ver-ing is-sues, such as
  []
 
 
-Overfull \hbox (21.67033pt too wide) in alignment at lines 186--191
+Overfull \hbox (21.67033pt too wide) in alignment at lines 204--209
  [][][] []
  []
 
 [3]
-Overfull \hbox (12.36696pt too wide) in alignment at lines 301--305
+Underfull \vbox (badness 3482) has occurred while \output is active []
+
+
+Overfull \hbox (12.36696pt too wide) in alignment at lines 319--323
  [][][] []
  []
 
 
-Overfull \hbox (4.03154pt too wide) in alignment at lines 309--312
+Overfull \hbox (4.03154pt too wide) in alignment at lines 327--330
  [][][] []
  []
 
-
-Underfull \hbox (badness 1661) in paragraph at lines 329--330
+[4]
+Underfull \hbox (badness 1661) in paragraph at lines 347--348
 \OT1/txr/m/n/10 order waves are con-sid-ered in the sim-u-la-tion
  []
 
 
-Underfull \hbox (badness 1472) in paragraph at lines 345--346
+Underfull \hbox (badness 1472) in paragraph at lines 363--364
 \OT1/txr/m/n/10 There-fore, the given nar-row band dis-tur-bance
  []
 
-[4]
+[5]
 \c@theorem=\count121
- [5]
-Overfull \hbox (6.53867pt too wide) detected at line 496
+
+Overfull \hbox (6.53867pt too wide) detected at line 514
 \OT1/txr/m/n/10 [\OML/txmi/m/it/10 v\OT1/txr/m/n/10 (\OML/txmi/m/it/10 t[]\OT1/
 txr/m/n/10 )\OML/txmi/m/it/10 ;  \OT1/txr/m/n/10 (\OML/txmi/m/it/10 t[]\OT1/txr
 /m/n/10 )\OML/txmi/m/it/10 ; r\OT1/txr/m/n/10 (\OML/txmi/m/it/10 t[]\OT1/txr/m/
@@ -796,73 +799,70 @@ n/10 )\OML/txmi/m/it/10 ; ^^^\OT1/txr/m/n/10 (\OML/txmi/m/it/10 t[]\OT1/txr/m/n
  )][] = [\OML/txmi/m/it/10 v[];  []; r[]; ^^^[]; p[]\OT1/txr/m/n/10 ][]
  []
 
-[6]
-Overfull \hbox (13.94727pt too wide) in alignment at lines 570--573
+[6] [7]
+Overfull \hbox (13.94727pt too wide) in alignment at lines 588--591
  [][][] []
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 650--651
+Underfull \hbox (badness 2529) in paragraph at lines 668--669
 []\OT1/txr/m/n/10 Other meth-ods such as the clas-si-cal pole-
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 650--651
+Underfull \hbox (badness 1033) in paragraph at lines 668--669
 \OT1/txr/m/n/10 and Luo, 2007) can also be used to sta-bi-lize
  []
 
 
-Overfull \hbox (18.01987pt too wide) in alignment at lines 654--658
+Overfull \hbox (18.01987pt too wide) in alignment at lines 672--676
  [][][] []
  []
 
 
-Overfull \hbox (7.4659pt too wide) in alignment at lines 662--664
+Overfull \hbox (7.4659pt too wide) in alignment at lines 680--682
  [][][] []
  []
 
-[7]
-LaTeX Font Info:    Try loading font information for OMS+txr on input line 704.
+[8]
+LaTeX Font Info:    Try loading font information for OMS+txr on input line 722.
 
  (/usr/local/texlive/2013/texmf-dist/tex/latex/txfonts/omstxr.fd
 File: omstxr.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Font shape `OMS/txr/m/n' in size <10> not available
-(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 704.
- [8]
-Overfull \hbox (15.74524pt too wide) in alignment at lines 726--731
+(Font)              Font shape `OMS/txsy/m/n' tried instead on input line 722.
+
+Overfull \hbox (15.74524pt too wide) in alignment at lines 744--749
  [][][] []
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 747--748
+Underfull \hbox (badness 10000) in paragraph at lines 765--766
 []\OT1/txr/m/n/10 A 4-DOF (surge-sway-yaw-roll) non-lin-ear
  []
 
-
-Underfull \hbox (badness 1043) in paragraph at lines 762--764
+[9]
+Underfull \hbox (badness 1043) in paragraph at lines 780--782
 \OT1/txr/m/n/10 The wave shap-ing pa-ram-e-ters are se-lected as:
  []
 
-[9] [10]
-Underfull \hbox (badness 1490) in paragraph at lines 838--839
+[10] [11]
+Underfull \hbox (badness 1490) in paragraph at lines 856--857
 []\OT1/txr/m/n/10 In the par-tic-u-larly long pe-riod wave cases,
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 840--841
+Underfull \hbox (badness 1215) in paragraph at lines 858--859
 []\OT1/txr/m/n/10 Fortunately, wave en-ergy has a well-known
  []
 
-[11]
-Underfull \vbox (badness 2435) has occurred while \output is active []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 911--912
+[12]
+Underfull \hbox (badness 10000) in paragraph at lines 929--930
 
  []
 
-(./RRS_final.bbl [12]) (./RRS_final.lot)
+(./RRS_final.bbl) [13] (./RRS_final.lot)
 \tf@lot=\write5
 \openout5 = `RRS_final.lot'.
 
@@ -895,153 +895,155 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--12
 \tf@lof=\write6
 \openout6 = `RRS_final.lof'.
 
- [13]
-Overfull \hbox (27.34099pt too wide) in paragraph at lines 935--950
+
+Overfull \hbox (27.34099pt too wide) in paragraph at lines 953--968
  [][] 
  []
 
-
-Overfull \hbox (21.97037pt too wide) in paragraph at lines 958--973
+[14]
+Overfull \hbox (21.97037pt too wide) in paragraph at lines 976--991
  [][] 
  []
 
-[14] <FIG1_PDF.pdf, id=56, 350.94662pt x 211.66476pt>
+<FIG1_PDF.pdf, id=56, 350.94662pt x 211.66476pt>
 File: FIG1_PDF.pdf Graphic file (type pdf)
  <use FIG1_PDF.pdf>
-Package pdftex.def Info: FIG1_PDF.pdf used on input line 982.
+Package pdftex.def Info: FIG1_PDF.pdf used on input line 1000.
 (pdftex.def)             Requested size: 241.84842pt x 145.86797pt.
 
-Overfull \hbox (40.45274pt too wide) in paragraph at lines 982--983
+Overfull \hbox (40.45274pt too wide) in paragraph at lines 1000--1001
  [][] 
  []
 
-
+[15 <./FIG1_PDF.pdf>]
 
 pdfTeX warning: pdflatex (file ./FIG2_PDF.pdf): PDF inclusion: found PDF versio
 n <1.6>, but at most version <1.5> allowed
-<FIG2_PDF.pdf, id=57, 1442.38875pt x 574.39594pt>
+<FIG2_PDF.pdf, id=85, 1442.38875pt x 574.39594pt>
 File: FIG2_PDF.pdf Graphic file (type pdf)
  <use FIG2_PDF.pdf>
-Package pdftex.def Info: FIG2_PDF.pdf used on input line 991.
+Package pdftex.def Info: FIG2_PDF.pdf used on input line 1009.
 (pdftex.def)             Requested size: 398.33858pt x 158.62108pt.
 
-<FIG3_PDF.pdf, id=58, 585.20634pt x 420.5512pt>
+<FIG3_PDF.pdf, id=86, 585.20634pt x 420.5512pt>
 File: FIG3_PDF.pdf Graphic file (type pdf)
  <use FIG3_PDF.pdf>
-Package pdftex.def Info: FIG3_PDF.pdf used on input line 1000.
+Package pdftex.def Info: FIG3_PDF.pdf used on input line 1018.
 (pdftex.def)             Requested size: 227.62204pt x 163.57794pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1000--1001
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1018--1019
  [][] 
  []
 
-[15 <./FIG1_PDF.pdf> <./FIG3_PDF.pdf>]
-<FIG4_PDF.pdf, id=127, 367.3725pt x 287.0725pt>
+<FIG4_PDF.pdf, id=87, 367.3725pt x 287.0725pt>
 File: FIG4_PDF.pdf Graphic file (type pdf)
  <use FIG4_PDF.pdf>
-Package pdftex.def Info: FIG4_PDF.pdf used on input line 1009.
+Package pdftex.def Info: FIG4_PDF.pdf used on input line 1027.
 (pdftex.def)             Requested size: 227.62204pt x 177.8736pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1009--1010
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1027--1028
  [][] 
  []
 
-<FIG5_PDF.pdf, id=128, 587.19376pt x 639.38875pt>
+[16 <./FIG3_PDF.pdf> <./FIG4_PDF.pdf>]
+<FIG5_PDF.pdf, id=135, 587.19376pt x 639.38875pt>
 File: FIG5_PDF.pdf Graphic file (type pdf)
  <use FIG5_PDF.pdf>
-Package pdftex.def Info: FIG5_PDF.pdf used on input line 1029.
+Package pdftex.def Info: FIG5_PDF.pdf used on input line 1047.
 (pdftex.def)             Requested size: 227.62204pt x 247.84837pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1029--1030
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1047--1048
  [][] 
  []
 
-[16 <./FIG2_PDF.pdf> <./FIG4_PDF.pdf> <./FIG5_PDF.pdf>]
-<FIG6_PDF.pdf, id=207, 584.1825pt x 285.36612pt>
+<FIG6_PDF.pdf, id=136, 584.1825pt x 285.36612pt>
 File: FIG6_PDF.pdf Graphic file (type pdf)
  <use FIG6_PDF.pdf>
-Package pdftex.def Info: FIG6_PDF.pdf used on input line 1039.
+Package pdftex.def Info: FIG6_PDF.pdf used on input line 1057.
 (pdftex.def)             Requested size: 227.62204pt x 111.19218pt.
-
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1039--1040
- [][] 
- []
-
-<FIG7_PDF.pdf, id=208, 542.025pt x 497.92322pt>
-File: FIG7_PDF.pdf Graphic file (type pdf)
- <use FIG7_PDF.pdf>
-Package pdftex.def Info: FIG7_PDF.pdf used on input line 1048.
-(pdftex.def)             Requested size: 227.62204pt x 209.10353pt.
-
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1048--1049
- [][] 
- []
-
-[17 <./FIG6_PDF.pdf> <./FIG7_PDF.pdf>]
-<FIG8_PDF.pdf, id=249, 542.025pt x 500.76787pt>
-File: FIG8_PDF.pdf Graphic file (type pdf)
- <use FIG8_PDF.pdf>
-Package pdftex.def Info: FIG8_PDF.pdf used on input line 1057.
-(pdftex.def)             Requested size: 227.62204pt x 210.29814pt.
 
 Overfull \hbox (26.22636pt too wide) in paragraph at lines 1057--1058
  [][] 
  []
 
-<FIG10_PDF.pdf, id=250, 601.24625pt x 286.57062pt>
+[17 <./FIG2_PDF.pdf> <./FIG5_PDF.pdf> <./FIG6_PDF.pdf>]
+<FIG7_PDF.pdf, id=215, 542.025pt x 497.92322pt>
+File: FIG7_PDF.pdf Graphic file (type pdf)
+ <use FIG7_PDF.pdf>
+Package pdftex.def Info: FIG7_PDF.pdf used on input line 1066.
+(pdftex.def)             Requested size: 227.62204pt x 209.10353pt.
+
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1066--1067
+ [][] 
+ []
+
+<FIG8_PDF.pdf, id=216, 542.025pt x 500.76787pt>
+File: FIG8_PDF.pdf Graphic file (type pdf)
+ <use FIG8_PDF.pdf>
+Package pdftex.def Info: FIG8_PDF.pdf used on input line 1075.
+(pdftex.def)             Requested size: 227.62204pt x 210.29814pt.
+
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1075--1076
+ [][] 
+ []
+
+[18 <./FIG7_PDF.pdf> <./FIG8_PDF.pdf>]
+<FIG10_PDF.pdf, id=289, 601.24625pt x 286.57062pt>
 File: FIG10_PDF.pdf Graphic file (type pdf)
  <use FIG10_PDF.pdf>
-Package pdftex.def Info: FIG10_PDF.pdf used on input line 1068.
+Package pdftex.def Info: FIG10_PDF.pdf used on input line 1086.
 (pdftex.def)             Requested size: 227.62204pt x 108.4913pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1068--1069
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1086--1087
  [][] 
  []
 
-[18 <./FIG8_PDF.pdf> <./FIG10_PDF.pdf>]
-<FIG11_PDF.pdf, id=294, 586.19pt x 216.10738pt>
+<FIG11_PDF.pdf, id=290, 586.19pt x 216.10738pt>
 File: FIG11_PDF.pdf Graphic file (type pdf)
  <use FIG11_PDF.pdf>
-Package pdftex.def Info: FIG11_PDF.pdf used on input line 1078.
+Package pdftex.def Info: FIG11_PDF.pdf used on input line 1096.
 (pdftex.def)             Requested size: 227.62204pt x 83.9155pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1078--1079
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1096--1097
  [][] 
  []
 
-<FIG9_PDF.pdf, id=295, 594.22pt x 430.60875pt>
+[19 <./FIG10_PDF.pdf> <./FIG11_PDF.pdf>]
+<FIG9_PDF.pdf, id=303, 594.22pt x 430.60875pt>
 File: FIG9_PDF.pdf Graphic file (type pdf)
  <use FIG9_PDF.pdf>
-Package pdftex.def Info: FIG9_PDF.pdf used on input line 1091.
+Package pdftex.def Info: FIG9_PDF.pdf used on input line 1109.
 (pdftex.def)             Requested size: 227.62204pt x 164.94713pt.
 
-Overfull \hbox (26.22636pt too wide) in paragraph at lines 1091--1092
+Overfull \hbox (26.22636pt too wide) in paragraph at lines 1109--1110
  [][] 
  []
 
-[19 <./FIG11_PDF.pdf> <./FIG9_PDF.pdf>] (./RRS_final.aux) ) 
+[20
+
+ <./FIG9_PDF.pdf>] (./RRS_final.aux) ) 
 Here is how much of TeX's memory you used:
  4798 strings out of 493315
  63192 string characters out of 6137904
- 144438 words of memory out of 5000000
+ 142438 words of memory out of 5000000
  8089 multiletter control sequences out of 15000+600000
  36220 words of font info for 92 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,12n,34p,1290b,286s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/
-2013/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmtt8.pfb></usr/local/texlive/2013/texmf-dist/f
-onts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/texlive/2013/texmf-di
-st/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2013/texmf-dist/fon
-ts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2013/texmf-dist/fonts/type
-1/public/txfonts/txex.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/publi
-c/txfonts/txsy.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/ut
-mb8a.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><
-/usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on RRS_final.pdf (19 pages, 371391 bytes).
+ 38i,12n,34p,1393b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2013/texmf-dist/fonts
+/enc/dvips/base/8r.enc}</usr/local/texlive/2013/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmtt8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/ams
+fonts/symbols/msam10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public
+/txfonts/rtxmi.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/txfon
+ts/rtxr.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/txfonts/txex
+.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/txfonts/txsy.pfb></
+usr/local/texlive/2013/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/
+texlive/2013/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on RRS_final.pdf (20 pages, 374585 bytes).
 PDF statistics:
- 339 PDF objects out of 1000 (max. 8388607)
- 181 compressed objects within 2 object streams
+ 342 PDF objects out of 1000 (max. 8388607)
+ 183 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  56 words of extra memory for PDF output out of 10000 (max. 10000000)
 
